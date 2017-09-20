@@ -1,3 +1,4 @@
-print("Hello!!")
-my_dict = {'cheese': 'cake'}
-return my_dict
+def test():
+  print("Hello!!")
+  my_dict = {'cheese': 'cake'}
+  return my_dict
